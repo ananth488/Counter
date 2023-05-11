@@ -1,2 +1,2 @@
-# Counter
-Couter project in using React js
+# Digital Clock
+Digital Clock project in using React js
